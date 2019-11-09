@@ -10,13 +10,29 @@
 
 // }
 
-let suma = 0
 
-for (let i = 1; i < 1001; i=i+2) {
- 
-    let resultado = suma + i
- 
-    suma = resultado
 
-    console.log (suma);
-}
+// let suma = 0
+
+// for (let i = 1; i < 1001; i=i+2) {
+ 
+//     let resultado = suma + i
+ 
+//     suma = resultado
+
+//     console.log (suma);
+// }
+
+
+
+// let asterisco = `*`
+// let dibujo = ""
+
+// for (let i = 0 ; i < 14; i++) {
+
+//     dibujo = asterisco + dibujo
+
+//     console.log(dibujo)
+// }
+
+
