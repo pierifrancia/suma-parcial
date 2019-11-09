@@ -36,3 +36,13 @@
 // }
 
 
+// let dibujo = `*`
+// let asterisco = `*`
+// console.log(asterisco)
+
+// for (let i = 0 ; i < 5; i++) {
+
+//     dibujo = asterisco + asterisco + dibujo 
+
+//     console.log(dibujo)
+// }
